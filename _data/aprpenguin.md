@@ -1,5 +1,6 @@
-this is a video post using the vimeo format.
-
-To create one you just have to use the type-specific variables within the Front Matter and paste the embed code directly from vimeo.
-
-this post also shows the video on the home page instead of the featured image. 
+  id: aprpenguin
+  name: رضا شکری
+  avatar: /profile-pic.jpg
+  bio: this is some more information about the author.
+  instagram: http://instagram.com/gusvegus
+  email: rezash13@gmail.com
