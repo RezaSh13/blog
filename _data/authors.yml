@@ -10,15 +10,15 @@
 #   email: someone@something.com //--> optional
 
 -
-  id: someone
-  name: Some Person
+  id: rezash13
+  name: رضا شکری
   avatar: /profile-pic.jpg
   bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
-  instagram: http://instagram.com/someone
-  email: someone@something.com
+#  facebook: https://www.facebook.com/someone
+#  twitter: https://twitter.com/someone
+  instagram: http://instagram.com/gusvegus
+  email: rezash13@gmail.com.com
 -
-  id: person
+  id: rezash13
   avatar: /profile-pic.jpg
   bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
