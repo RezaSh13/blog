@@ -10,7 +10,7 @@
 #   email: someone@something.com //--> optional
 
 -
-  id: authors.yml
+  id: 
   name: رضا شکری
   avatar: /profile-pic.jpg
   bio: this is some more information about the author.
