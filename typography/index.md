@@ -1,7 +1,7 @@
 ---
 author: رضا شکری
 type: image
-featimg: reza_shokri.jpg
+featimg: 9.jpg
 title: Image
 tags: [image]
 category: [image]
@@ -12,6 +12,6 @@ layout: post-material-sidebar-right
 ```yml
 ---
 type: image
-featimg: reza_shokri.jpg
+featimg: 9.jpg
 ---
 ```
