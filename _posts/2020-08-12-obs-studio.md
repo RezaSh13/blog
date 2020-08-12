@@ -36,13 +36,8 @@ LIBGL_ALWAYS_SOFTWARE=1 obs
 </div>
 
 <br> 
+
 type: image
 featimg: obs-studio3.jpg
 
 <br> 
-```yml
----
-type: image
-featimg: obs-studio1.jpg
----
-```
