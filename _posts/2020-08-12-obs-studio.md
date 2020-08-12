@@ -8,7 +8,7 @@ category: [image]
 layout: post-material-sidebar-right
 gallery:
     - images:
-      - filename: obs-studio1.jpg
+      - filename: obs-studio2.jpg
         alttext: عکس
 ---
 <div dir="rtl"> 
