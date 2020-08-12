@@ -41,3 +41,12 @@ LIBGL_ALWAYS_SOFTWARE=1 obs
 <br> 
 
 <img src="/blog/img/obs-studio3.jpg" alt="obs-studio" style="height: 651px; width:961px;" class="center"/>
+
+
+
+<div dir="rtl"> 
+
+اگه سوالی داشتید تو ایشو گیت‌هاب بهم بگید بعدا قسمت کامنت رو فعال می‌کنم
+
+https://github.com/rezash13/blog/issues
+</div>
