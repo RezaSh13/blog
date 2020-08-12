@@ -40,4 +40,4 @@ LIBGL_ALWAYS_SOFTWARE=1 obs
 
 <br> 
 
-<img src="/blog/img/obs-studio3.jpg" alt="MarineGEO circle logo" style="height: 961px; width:651px;"/>
+<img src="/blog/img/obs-studio3.jpg" alt="obs-studio" style="height: 651px; width:961px;" class="center"/>
