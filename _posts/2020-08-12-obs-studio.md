@@ -10,6 +10,10 @@ gallery:
     - images:
       - filename: obs-studio2.jpg
         alttext:
+gallery1:
+    - images:
+      - filename: obs-studio3.jpg
+        alttext:
 ---
 <div dir="rtl"> 
 
@@ -34,8 +38,12 @@ LIBGL_ALWAYS_SOFTWARE=1 obs
 <div dir="rtl"> 
 البته من یه قدم پا رو فراتر گذاشتم و رفتم آیکون لانچ برنامه رو ویرایش کردم تا دیگه نیاز به ترمینال نباشه و متغیر بالا رو تو فایل لانچ گذاشتم.
 </div>
+
+<br> 
 type: image
 featimg: obs-studio3.jpg
+
+{% include gallery1.html %}
 
 ```yml
 ---
