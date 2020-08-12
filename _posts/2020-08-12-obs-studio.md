@@ -10,7 +10,7 @@ gallery:
     - images:
       - filename: obs-studio2.jpg
         alttext:
-gallery1:
+gallery:
     - images:
       - filename: obs-studio3.jpg
         alttext:
