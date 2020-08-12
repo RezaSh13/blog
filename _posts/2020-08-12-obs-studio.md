@@ -14,6 +14,6 @@ The Front Matter for that looks like this:
 ```yml
 ---
 type: image
-featimg: 5.jpg
+featimg: obs-studio1.jpg
 ---
 ```
