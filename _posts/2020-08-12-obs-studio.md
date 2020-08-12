@@ -10,6 +10,11 @@ gallery:
     - images:
       - filename: obs-studio2.jpg
         alttext:
+        
+obs-studio:
+    - images:
+      - filename: obs-studio3.jpg
+        alttext:
 ---
 <div dir="rtl"> 
 
@@ -39,11 +44,5 @@ LIBGL_ALWAYS_SOFTWARE=1 obs
 </div>
 
 <br> 
-</br>
 
----
-type: image
-featimg: obs-studio3.jpg
-
----
-
+{% include obs-studio.html %}
