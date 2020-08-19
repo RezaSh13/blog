@@ -5,6 +5,7 @@ featimg: obs-studio1.jpg
 title: <div dir="rtl"> حل مشکل عدم اجرا شدن obs studio </div>
 tags: [image]
 category: [image]
+comments_id: 1
 gallery:
     - images:
       - filename: obs-studio2.jpg
