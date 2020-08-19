@@ -9,7 +9,7 @@ gallery:
     - images:
       - filename: obs-studio2.jpg
         alttext:
-comments_id: 1
+comments_id: 2
 ---
 <div dir="rtl"> 
 
